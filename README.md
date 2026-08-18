@@ -129,3 +129,8 @@ Runtime scales with graph size: small graphs finish in seconds; Pokec (1.6M
 nodes) takes on the order of hours for JECHO, and the slower baselines dominate
 total time. A full reproduction across all datasets, 10 seeds, and all methods is
 a multi-day job.
+
+
+## Generative AI Usage Disclosure
+
+We used an LLM assistant for code cleanup and polishing (e.g., refactoring, readability improvements, comments, and documentation) of code written by the authors. All algorithms, experimental design, and results are the authors' own; no scientific content, analysis, or results were generated using AI tools.
